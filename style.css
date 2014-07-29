@@ -1,0 +1,29 @@
+h1{font-family: Arial;
+	color: #000066;
+	text-align:center;
+	font-size: 35px;
+	padding:15px;}
+body{background-color: #707070;}
+form{font-family: Arial;
+	color:black;}
+p{font-size:15px;
+	margin:15px;}
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+	white-space: nowrap;
+}
+ul{list-style-type: none;
+	margin: -10px;
+}
+li {
+	display:inline;
+	border: 2px solid #000000;
+	font-family: Arial;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #202020;
+}

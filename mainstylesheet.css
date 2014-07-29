@@ -1,0 +1,25 @@
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+	white-space: nowrap;
+}
+ul{list-style-type: none;
+	margin: -10px;
+}
+li {
+	display:inline;
+	border: 2px solid #000000;
+	font-family: Arial;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #202020;
+	font-size:19px;
+}
+body{background-color: #707070;}
+h1{font-family:Arial;
+	color:#000066;
+	text-align: center;
+	padding-top: 20px;}

@@ -1,0 +1,30 @@
+h1{color:#000066;
+	font-family: Arial;
+	padding: 15px;}
+h2{color: #000066;
+	font-family: Arial;}
+body{background-color: #707070;}
+li{font-family: Arial;}
+p{font-family: Arial;}
+a:link{color:orange;
+		text-decoration: none;}
+a:visited{color:#33CCCC;
+		text-decoration: none;}
+a:hover{color: yellow;
+		text-decoration: none;}
+#navbar {
+	position: fixed;
+	top:10px;
+	left:50%;
+	margin-left:-254px;
+	white-space: nowrap;
+}
+ul{list-style-type: none;
+	margin: -10px;}
+#first{display:inline;
+	border: 2px solid #000000;
+	font-family: Arial;
+	color: #ffffff;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #202020;}
